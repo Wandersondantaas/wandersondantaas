@@ -1,11 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+World!+;My+name+is+Wanderson+Lucio;Welcome+to+my+github+profile!++%3D)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A57DF&random=false&width=435&lines=Hello%2C+World!+;My+name+is+Wanderson+Lucio;Welcome+to+my+github+profile!++%3D)" alt="Typing SVG" /></a>
 
 # Wanderson Lucio
 Olá, me chamo wanderson, sou estudante de Análise e Desenvolvimento de Sistemas,
 estou em transição de carreira, abraçando todas as oportunidades para aprimorar
 minhas habilidades na área da tecnologia, quero muito iniciar na área, sou esforçado,
 aprendo rápido, e estou me preparando para me tornar um Programador Front-End.
-
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgenteDeveloper&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFF00&hide_title=true&hide=stars)
