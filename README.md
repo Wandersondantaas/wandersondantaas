@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A57DF&random=false&width=435&lines=Hello%2C+World!+;My+name+is+Wanderson+Lucio;Welcome+to+my+github+profile!++%3D)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hello%2C+World!+;My+name+is+Wanderson+Lucio;Welcome+to+my+github+profile!++%3D)" alt="Typing SVG" /></a>
 
 # Wanderson Lucio
 Olá, me chamo wanderson, sou estudante de Análise e Desenvolvimento de Sistemas,
