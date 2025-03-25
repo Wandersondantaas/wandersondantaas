@@ -29,7 +29,6 @@ Estou sempre buscando evoluir e aprender, com muita dedicação, responsabilidad
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=Javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 ---
