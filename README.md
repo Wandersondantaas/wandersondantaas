@@ -6,11 +6,12 @@
 
 Olá! Me chamo **Wanderson Lucio**, sou estudante do **último período de Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
 
-Atualmente atuo com foco em **desenvolvimento back-end**, utilizando tecnologias como:
+Atualmente atuo com foco em **desenvolvimento back-end**, com experiência no desenvolvimento, utilizando tecnologias como:
 
 - **C# com .NET / ASP.NET Core**
 - **Entity Framework (ORM)**
 - **Razor Pages**
+- **APIs RESTful**
 - **Bancos relacionais com SQL Server**
 
 Antes da área de tecnologia, servi no **Exército Brasileiro**, onde desenvolvi e levo comigo até hoje pilares essenciais como **disciplina, hierarquia e organização**. Esses valores são aplicados tanto na minha vida pessoal quanto na minha atuação profissional e acadêmica.
